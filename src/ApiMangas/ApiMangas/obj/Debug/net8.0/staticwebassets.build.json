@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "9OM85bhcFGkfMQJ9Bkyk53f/KUp1eGWo7o/OKz0o+nw=",
+  "Source": "ApiMangas",
+  "BasePath": "_content/ApiMangas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiMangas\\wwwroot",
+      "Source": "ApiMangas",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

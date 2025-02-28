@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\paginacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\paginacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\manga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\manga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|c:\\temp\\vshopblazor\\src\\apimangas\\apimangas\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF237B-0BCE-4537-BDA0-C3316673FD44}|ApiMangas\\ApiMangas.csproj|solutionrelative:apimangas\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manga.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Manga.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\Manga.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Manga.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\Manga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:25:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paginacao.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Paginacao.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\Paginacao.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Paginacao.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\Paginacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:25:45.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadResult.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\UploadResult.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\UploadResult.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\UploadResult.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\UploadResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:25:52.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\UserToken.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\UserToken.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\UserToken.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\UserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:26:05.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\User.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\User.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:25:58.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Categoria.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:25:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\Entity.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:25:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ApiMangas\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "ApiMangas\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:24:55.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

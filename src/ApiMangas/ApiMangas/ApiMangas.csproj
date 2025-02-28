@@ -10,4 +10,14 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ApiPaginacao\" />
+    <Folder Include="Context\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="Validation\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
