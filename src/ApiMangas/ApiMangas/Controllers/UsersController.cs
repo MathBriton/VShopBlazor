@@ -85,7 +85,7 @@ public class UsersController : ControllerBase
 
         return new UserToken()
         {
-            Token = new JwtSecurityTokenHandler().WriteToken(token),
+            token = new JwtSecurityTokenHandler().WriteToken(token),
             Expiration = expiration
         };
     }

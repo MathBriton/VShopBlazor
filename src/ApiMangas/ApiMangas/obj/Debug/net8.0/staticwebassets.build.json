@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9OM85bhcFGkfMQJ9Bkyk53f/KUp1eGWo7o/OKz0o+nw=",
+  "Hash": "4pESsFx1RKsE3OESMS7jWJioaHU6IUOOxoOlOj8KduY=",
   "Source": "ApiMangas",
   "BasePath": "_content/ApiMangas",
   "Mode": "Default",
@@ -15,6 +15,1656 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\dragonball1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/dragonball1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pw7rmxmxc2",
+      "Integrity": "NwW0yfxeAVybOBG2im5F+nmJ4haDAKozl1dYFsnT8zY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dragonball1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\elektra1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/elektra1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ixt20jt2hw",
+      "Integrity": "+n8xYNzilF6cGzImEkgSGQ7OQ/m8ZEjqCEeF7v+Rsgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\elektra1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gaviaonegro1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/gaviaonegro1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1prxnu6zw0",
+      "Integrity": "ddnhaBelCXNhcp1tAkEvyZcreyY2jSkPc2ZmrlJ/12k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gaviaonegro1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gravitation1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/gravitation1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7262qu2d4",
+      "Integrity": "VmVmItyQKQO3mJCwhc9q9lOzpkhAw5MWAgYkOOIQg4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gravitation1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\inu-yasha1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/inu-yasha1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3yq5aajffh",
+      "Integrity": "q7lVhZNTDZMdvs8SlWXY4B5VVi4VobTJXgMpIfQ9xIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\inu-yasha1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\karekano1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/karekano1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qnnexzyus",
+      "Integrity": "IYZHJjHTUoiG4OoEb7/t08U1/HUgHz4Yi7FRkMJoqlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\karekano1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\kono-suba1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/kono-suba1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6d45cs4ce",
+      "Integrity": "xrBFw3cYy+EGdIeiBWvVyK75X5W8biI6DgqKaUwbFbo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kono-suba1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\lovehina1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/lovehina1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zznuokfbr5",
+      "Integrity": "/2zfu4+EcfxuvjZIOvCs+b1t1C2C2ocXwtOF+xqT7sw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lovehina1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\naruto1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/naruto1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x3dptd3zga",
+      "Integrity": "nY9LOYbOjJF9Qo4n1Z/TUh13MP7KDKKYEPECfMX2UO0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\naruto1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\negina1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/negina1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gjbuan72k",
+      "Integrity": "NK0jprYk0LoZRQGuPLxMeRXpXmDX/fmVu+heZ083A6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\negina1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\orquideanegra1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/orquideanegra1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r65wp9w2gk",
+      "Integrity": "Q9/VFlhvLIoqICKwAYl7+rGo+J/kobj6VJym9f8BIgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\orquideanegra1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\platinumend1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/platinumend1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fobddnsw2d",
+      "Integrity": "XyXPguLqsIoXcuSp+hyPOB6llmjwA8pyX17w+E0GbDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\platinumend1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\rebon1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/rebon1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vk9arwdxcv",
+      "Integrity": "ASbuPzP0jvmWYDWuKT/M0njU/or7XS/WgIMqzKDyUrk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\rebon1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\sakura1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/sakura1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q7kfxgjn3n",
+      "Integrity": "6voH0r9MIfqtbTwtaaMm6bJkQkpEClSoDg2COstK1FA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sakura1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\spirit1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/spirit1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "suo36nnb1g",
+      "Integrity": "lFJp7pYnAFl3H9abbMJvvDPzoABhB56xVPo4zfPJo9U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\spirit1.jpg"
+    },
+    {
+      "Identity": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\superone1.jpg",
+      "SourceId": "ApiMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\",
+      "BasePath": "_content/ApiMangas",
+      "RelativePath": "images/superone1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ls9g85y932",
+      "Integrity": "lTHJ0P8fPDsRzIABu0/gzjB/W/JThyX0pHmHKkptum0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\superone1.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/dragonball1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\dragonball1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NwW0yfxeAVybOBG2im5F+nmJ4haDAKozl1dYFsnT8zY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwW0yfxeAVybOBG2im5F+nmJ4haDAKozl1dYFsnT8zY="
+        }
+      ]
+    },
+    {
+      "Route": "images/dragonball1.pw7rmxmxc2.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\dragonball1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NwW0yfxeAVybOBG2im5F+nmJ4haDAKozl1dYFsnT8zY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pw7rmxmxc2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dragonball1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NwW0yfxeAVybOBG2im5F+nmJ4haDAKozl1dYFsnT8zY="
+        }
+      ]
+    },
+    {
+      "Route": "images/elektra1.ixt20jt2hw.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\elektra1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+n8xYNzilF6cGzImEkgSGQ7OQ/m8ZEjqCEeF7v+Rsgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ixt20jt2hw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/elektra1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+n8xYNzilF6cGzImEkgSGQ7OQ/m8ZEjqCEeF7v+Rsgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/elektra1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\elektra1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+n8xYNzilF6cGzImEkgSGQ7OQ/m8ZEjqCEeF7v+Rsgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+n8xYNzilF6cGzImEkgSGQ7OQ/m8ZEjqCEeF7v+Rsgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/gaviaonegro1.1prxnu6zw0.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gaviaonegro1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ddnhaBelCXNhcp1tAkEvyZcreyY2jSkPc2ZmrlJ/12k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1prxnu6zw0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gaviaonegro1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ddnhaBelCXNhcp1tAkEvyZcreyY2jSkPc2ZmrlJ/12k="
+        }
+      ]
+    },
+    {
+      "Route": "images/gaviaonegro1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gaviaonegro1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ddnhaBelCXNhcp1tAkEvyZcreyY2jSkPc2ZmrlJ/12k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ddnhaBelCXNhcp1tAkEvyZcreyY2jSkPc2ZmrlJ/12k="
+        }
+      ]
+    },
+    {
+      "Route": "images/gravitation1.e7262qu2d4.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gravitation1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VmVmItyQKQO3mJCwhc9q9lOzpkhAw5MWAgYkOOIQg4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7262qu2d4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gravitation1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VmVmItyQKQO3mJCwhc9q9lOzpkhAw5MWAgYkOOIQg4s="
+        }
+      ]
+    },
+    {
+      "Route": "images/gravitation1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gravitation1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VmVmItyQKQO3mJCwhc9q9lOzpkhAw5MWAgYkOOIQg4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VmVmItyQKQO3mJCwhc9q9lOzpkhAw5MWAgYkOOIQg4s="
+        }
+      ]
+    },
+    {
+      "Route": "images/inu-yasha1.3yq5aajffh.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\inu-yasha1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q7lVhZNTDZMdvs8SlWXY4B5VVi4VobTJXgMpIfQ9xIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3yq5aajffh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/inu-yasha1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q7lVhZNTDZMdvs8SlWXY4B5VVi4VobTJXgMpIfQ9xIg="
+        }
+      ]
+    },
+    {
+      "Route": "images/inu-yasha1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\inu-yasha1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q7lVhZNTDZMdvs8SlWXY4B5VVi4VobTJXgMpIfQ9xIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q7lVhZNTDZMdvs8SlWXY4B5VVi4VobTJXgMpIfQ9xIg="
+        }
+      ]
+    },
+    {
+      "Route": "images/karekano1.7qnnexzyus.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\karekano1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYZHJjHTUoiG4OoEb7/t08U1/HUgHz4Yi7FRkMJoqlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qnnexzyus"
+        },
+        {
+          "Name": "label",
+          "Value": "images/karekano1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYZHJjHTUoiG4OoEb7/t08U1/HUgHz4Yi7FRkMJoqlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/karekano1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\karekano1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYZHJjHTUoiG4OoEb7/t08U1/HUgHz4Yi7FRkMJoqlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYZHJjHTUoiG4OoEb7/t08U1/HUgHz4Yi7FRkMJoqlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/kono-suba1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\kono-suba1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xrBFw3cYy+EGdIeiBWvVyK75X5W8biI6DgqKaUwbFbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xrBFw3cYy+EGdIeiBWvVyK75X5W8biI6DgqKaUwbFbo="
+        }
+      ]
+    },
+    {
+      "Route": "images/kono-suba1.u6d45cs4ce.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\kono-suba1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xrBFw3cYy+EGdIeiBWvVyK75X5W8biI6DgqKaUwbFbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6d45cs4ce"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kono-suba1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xrBFw3cYy+EGdIeiBWvVyK75X5W8biI6DgqKaUwbFbo="
+        }
+      ]
+    },
+    {
+      "Route": "images/lovehina1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\lovehina1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2zfu4+EcfxuvjZIOvCs+b1t1C2C2ocXwtOF+xqT7sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2zfu4+EcfxuvjZIOvCs+b1t1C2C2ocXwtOF+xqT7sw="
+        }
+      ]
+    },
+    {
+      "Route": "images/lovehina1.zznuokfbr5.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\lovehina1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2zfu4+EcfxuvjZIOvCs+b1t1C2C2ocXwtOF+xqT7sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zznuokfbr5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lovehina1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2zfu4+EcfxuvjZIOvCs+b1t1C2C2ocXwtOF+xqT7sw="
+        }
+      ]
+    },
+    {
+      "Route": "images/naruto1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\naruto1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nY9LOYbOjJF9Qo4n1Z/TUh13MP7KDKKYEPECfMX2UO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nY9LOYbOjJF9Qo4n1Z/TUh13MP7KDKKYEPECfMX2UO0="
+        }
+      ]
+    },
+    {
+      "Route": "images/naruto1.x3dptd3zga.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\naruto1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nY9LOYbOjJF9Qo4n1Z/TUh13MP7KDKKYEPECfMX2UO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x3dptd3zga"
+        },
+        {
+          "Name": "label",
+          "Value": "images/naruto1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nY9LOYbOjJF9Qo4n1Z/TUh13MP7KDKKYEPECfMX2UO0="
+        }
+      ]
+    },
+    {
+      "Route": "images/negina1.4gjbuan72k.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\negina1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NK0jprYk0LoZRQGuPLxMeRXpXmDX/fmVu+heZ083A6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gjbuan72k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/negina1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NK0jprYk0LoZRQGuPLxMeRXpXmDX/fmVu+heZ083A6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/negina1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\negina1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NK0jprYk0LoZRQGuPLxMeRXpXmDX/fmVu+heZ083A6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NK0jprYk0LoZRQGuPLxMeRXpXmDX/fmVu+heZ083A6c="
+        }
+      ]
+    },
+    {
+      "Route": "images/orquideanegra1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\orquideanegra1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9/VFlhvLIoqICKwAYl7+rGo+J/kobj6VJym9f8BIgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9/VFlhvLIoqICKwAYl7+rGo+J/kobj6VJym9f8BIgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/orquideanegra1.r65wp9w2gk.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\orquideanegra1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9/VFlhvLIoqICKwAYl7+rGo+J/kobj6VJym9f8BIgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r65wp9w2gk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/orquideanegra1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9/VFlhvLIoqICKwAYl7+rGo+J/kobj6VJym9f8BIgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/platinumend1.fobddnsw2d.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\platinumend1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XyXPguLqsIoXcuSp+hyPOB6llmjwA8pyX17w+E0GbDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fobddnsw2d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/platinumend1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XyXPguLqsIoXcuSp+hyPOB6llmjwA8pyX17w+E0GbDQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/platinumend1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\platinumend1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XyXPguLqsIoXcuSp+hyPOB6llmjwA8pyX17w+E0GbDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XyXPguLqsIoXcuSp+hyPOB6llmjwA8pyX17w+E0GbDQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/rebon1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\rebon1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ASbuPzP0jvmWYDWuKT/M0njU/or7XS/WgIMqzKDyUrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ASbuPzP0jvmWYDWuKT/M0njU/or7XS/WgIMqzKDyUrk="
+        }
+      ]
+    },
+    {
+      "Route": "images/rebon1.vk9arwdxcv.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\rebon1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ASbuPzP0jvmWYDWuKT/M0njU/or7XS/WgIMqzKDyUrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vk9arwdxcv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/rebon1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ASbuPzP0jvmWYDWuKT/M0njU/or7XS/WgIMqzKDyUrk="
+        }
+      ]
+    },
+    {
+      "Route": "images/sakura1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\sakura1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6voH0r9MIfqtbTwtaaMm6bJkQkpEClSoDg2COstK1FA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6voH0r9MIfqtbTwtaaMm6bJkQkpEClSoDg2COstK1FA="
+        }
+      ]
+    },
+    {
+      "Route": "images/sakura1.q7kfxgjn3n.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\sakura1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6voH0r9MIfqtbTwtaaMm6bJkQkpEClSoDg2COstK1FA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q7kfxgjn3n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sakura1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6voH0r9MIfqtbTwtaaMm6bJkQkpEClSoDg2COstK1FA="
+        }
+      ]
+    },
+    {
+      "Route": "images/spirit1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\spirit1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFJp7pYnAFl3H9abbMJvvDPzoABhB56xVPo4zfPJo9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFJp7pYnAFl3H9abbMJvvDPzoABhB56xVPo4zfPJo9U="
+        }
+      ]
+    },
+    {
+      "Route": "images/spirit1.suo36nnb1g.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\spirit1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFJp7pYnAFl3H9abbMJvvDPzoABhB56xVPo4zfPJo9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "suo36nnb1g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/spirit1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFJp7pYnAFl3H9abbMJvvDPzoABhB56xVPo4zfPJo9U="
+        }
+      ]
+    },
+    {
+      "Route": "images/superone1.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\superone1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTHJ0P8fPDsRzIABu0/gzjB/W/JThyX0pHmHKkptum0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTHJ0P8fPDsRzIABu0/gzjB/W/JThyX0pHmHKkptum0="
+        }
+      ]
+    },
+    {
+      "Route": "images/superone1.ls9g85y932.jpg",
+      "AssetFile": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\superone1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTHJ0P8fPDsRzIABu0/gzjB/W/JThyX0pHmHKkptum0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Apr 2024 11:15:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ls9g85y932"
+        },
+        {
+          "Name": "label",
+          "Value": "images/superone1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTHJ0P8fPDsRzIABu0/gzjB/W/JThyX0pHmHKkptum0="
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\dragonball1.jpg",
+      "PackagePath": "staticwebassets\\images\\dragonball1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\elektra1.jpg",
+      "PackagePath": "staticwebassets\\images\\elektra1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gaviaonegro1.jpg",
+      "PackagePath": "staticwebassets\\images\\gaviaonegro1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\gravitation1.jpg",
+      "PackagePath": "staticwebassets\\images\\gravitation1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\inu-yasha1.jpg",
+      "PackagePath": "staticwebassets\\images\\inu-yasha1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\karekano1.jpg",
+      "PackagePath": "staticwebassets\\images\\karekano1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\kono-suba1.jpg",
+      "PackagePath": "staticwebassets\\images\\kono-suba1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\lovehina1.jpg",
+      "PackagePath": "staticwebassets\\images\\lovehina1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\naruto1.jpg",
+      "PackagePath": "staticwebassets\\images\\naruto1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\negina1.jpg",
+      "PackagePath": "staticwebassets\\images\\negina1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\orquideanegra1.jpg",
+      "PackagePath": "staticwebassets\\images\\orquideanegra1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\platinumend1.jpg",
+      "PackagePath": "staticwebassets\\images\\platinumend1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\rebon1.jpg",
+      "PackagePath": "staticwebassets\\images\\rebon1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\sakura1.jpg",
+      "PackagePath": "staticwebassets\\images\\sakura1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\spirit1.jpg",
+      "PackagePath": "staticwebassets\\images\\spirit1.jpg"
+    },
+    {
+      "Id": "C:\\Temp\\VShopBlazor\\src\\ApiMangas\\ApiMangas\\wwwroot\\images\\superone1.jpg",
+      "PackagePath": "staticwebassets\\images\\superone1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiMangas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiMangas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiMangas.props",
+      "PackagePath": "build\\ApiMangas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiMangas.props",
+      "PackagePath": "buildMultiTargeting\\ApiMangas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiMangas.props",
+      "PackagePath": "buildTransitive\\ApiMangas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
